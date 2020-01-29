@@ -39,7 +39,7 @@ Is Mapbox free?
 
 <!--
 
-Yes, it is free within the free tier. For example, for mobile SDKs, it's free up to 25,000 monthly active users. For details, please look at the [pricing page](https://www.mapbox.com/pricing).
+We have a free tier. However, some use cases or volume may require payment. For details, please look at the [pricing page](https://www.mapbox.com/pricing).
 
 -->
 
