@@ -4,7 +4,7 @@
 
 <!--
 
-In this repository, we support the YOLP developer.
+In this repository, we support the YOLP developers migrating to Mapbox.
 
 -->
 
@@ -31,7 +31,7 @@ The purpose of this repository
 In this repository, we provide technical support in Japanese.
 
 - If you have any technical questions, please create a ticket [here](https://github.com/mapbox/mapbox-YOLP/issues)
-- If the question involves private information that includes billing or account, please contact [support from this page directly](https://support.mapbox.com/)
+- If the question involves private information that includes billing or account information, please contact [support from this page directly](https://support.mapbox.com/)
 - If you would like to request information about Enterprise accounts, please contact *email address*
 - If any of the above does not match what you are looking for, please contact [support from this page directly](https://support.mapbox.com/)
 
@@ -49,7 +49,7 @@ Is Mapbox free?
 
 <!--
 
-Yes, it is free within the free tier. For example, for mobile SDK, it's free up to 25,000 monthly active users. For details, please look at the [pricing page](https://www.mapbox.com/pricing).
+Yes, it is free within the free tier. For example, for mobile SDKs, it's free up to 25,000 monthly active users. For details, please look at the [pricing page](https://www.mapbox.com/pricing).
 
 -->
 
@@ -57,7 +57,7 @@ Yes, it is free within the free tier. For example, for mobile SDK, it's free up 
 
 <!--
 
-If you don't know where to start.
+How to get started:
 
 -->
 
@@ -122,7 +122,7 @@ Is it faster to contact in English (using the support page) or in Japanese (usin
 
 <!--
 
-Depending on the number of tickets, it may be faster to contact using the [support page](https://support.mapbox.com/) in English.
+Depending on the number of issues, it may be faster to contact using the [support page](https://support.mapbox.com/) in English.
 
 -->
 
@@ -131,7 +131,7 @@ Depending on the number of tickets, it may be faster to contact using the [suppo
 
 <!--
 
-Is there SLA for support?
+Is there a guaranteed response time?
 
 -->
 
@@ -140,8 +140,8 @@ Is there SLA for support?
 
 <!--
 
-For questions asked using this repository, any other Mapbox repository, or through the support page do not have any SLA for reply.
-To obtain a support package, please look at the pricing for support [here](https://www.mapbox.com/pricing/#support-pricing).
+We do not guarantee a response time for issues opened in this or any other Mapbox repository. We also do not guarantee a response time for questions submitted to the support page directly.
+If you need a guaranteed response time, we offer premium support packages that come with a response time to meet your needs. For more info, see the support [pricing page](https://www.mapbox.com/pricing/#support-pricing).
 
 -->
 
@@ -158,7 +158,7 @@ I'd like you to translate the issues from another Mapbox repository into Japanes
 
 <!--
 
-We do not provide a translation service, so please do that on your own.
+We are unable to provide translations of issues at this time.
 
 -->
 
