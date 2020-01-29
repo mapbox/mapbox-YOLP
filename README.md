@@ -100,22 +100,6 @@ We don't provide direct support for YOLP here. For YOLP support, please contact 
 
 -->
 
-### 🏎 チケットの返答速度は英語(サイトからのサポート)か日本語(このレポジトリ)どちらが早いでしょうか
-
-<!--
-
-Is it faster to contact in English (using the support page) or in Japanese (using this repository)?
-
--->
-
-チケットの数により英語で[直接サポートページ](https://support.mapbox.com/)から質問した場合、返事が帰ってくるのが早い場合があります。
-
-<!--
-
-Depending on the number of issues, it may be faster to contact using the [support page](https://support.mapbox.com/) in English.
-
--->
-
 
 ### ✅ サポート返答保証は存在しますか
 
