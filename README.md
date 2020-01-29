@@ -114,7 +114,8 @@ Is there a guaranteed response time?
 
 <!--
 
-We do not guarantee a response time for issues opened in this or any other Mapbox repository. We also do not guarantee a response time for questions submitted to the support page directly.
+We will do all we can to answer questions as soon as possible. However, we do not guarantee a response time for issues opened in this or any other Mapbox repository. We also do not guarantee a response time for questions submitted to the support page directly.
+
 If you need a guaranteed response time, we offer premium support packages that come with a response time to meet your needs. For more info, see the support [pricing page](https://www.mapbox.com/pricing/#support-pricing).
 
 -->
