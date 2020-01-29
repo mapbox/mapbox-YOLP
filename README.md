@@ -121,19 +121,3 @@ If you need a guaranteed response time, we offer premium support packages that c
 -->
 
 
-### 🇬🇧 Mapboxレポジトリの英語のチケットに関して翻訳して欲しいのですが
-
-<!--
-
-I'd like you to translate the issues from another Mapbox repository into Japanese.
-
--->
-
-こちらでは、翻訳は行っておりませんので独自で行って下さい。
-
-<!--
-
-We are unable to provide translations of issues at this time.
-
--->
-
