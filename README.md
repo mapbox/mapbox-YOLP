@@ -25,16 +25,6 @@ The purpose of this repository
 - Enterprise向けの資料請求に関しましては、*email address*にお問い合わせください。
 - 上記の項目に当てはまらない場合は[直接サポートページ](https://support.mapbox.com/)からお問い合わせください。
 
-
-<!--
-
-In this repository, we provide technical support in Japanese.
-
-- If you have any technical questions, please create a ticket [here](https://github.com/mapbox/mapbox-YOLP/issues)
-- If the question involves private information that includes billing or account information, please email japan@mapbox.com.
-- If you would like to request information about Enterprise accounts, please contact *email address*
-- If any of the above does not match what you are looking for, please contact [support from this page directly](https://support.mapbox.com/)
-
 -->
 
 ### 🆓 Mapboxは無料ですか
