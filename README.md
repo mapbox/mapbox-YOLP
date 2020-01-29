@@ -96,7 +96,7 @@ I have a question about YOLP.
 
 <!--
 
-We don't provide direct support for YOLP here. For YOLP support, please contact *YJ email address*.
+We don't provide direct support for YOLP here. For YOLP support, please contact japan@mapbox.com.
 
 -->
 
