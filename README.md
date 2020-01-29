@@ -22,7 +22,7 @@ The purpose of this repository
 - 技術的な質問がある場合で英語でも構わない場合は[直接サポートページ](https://support.mapbox.com/)からお問い合わせください。
 - 個人情報を含む請求やのアカウントに関わる質問は[直接サポートページ](https://support.mapbox.com/)からお問い合わせください。
 - 詳しい値段に関しても質問は[直接サポートページ](https://support.mapbox.com/)からお問い合わせください。
-- Enterprise向けの資料請求に関しましては、*email address*にお問い合わせください。
+- Enterprise向けの資料請求に関しましては、japan@mapbox.comにお問い合わせください。
 - 上記の項目に当てはまらない場合は[直接サポートページ](https://support.mapbox.com/)からお問い合わせください。
 
 -->
@@ -62,7 +62,7 @@ How to get started:
 
 <!--
 
-As a startingn point, please refer to the links below
+As a starting point, please refer to the links below
 
 - [Mapbox Studio](https://docs.mapbox.com/studio-manual/overview/)
 - [A collection of tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -92,7 +92,7 @@ I have a question about YOLP.
 
 -->
 
-こちらではMapboxの導入サポートを実施していますのでYOLPの仕様に関しましては*YJ email address*にお問い合わせください。
+こちらではMapboxの導入サポートを実施していますのでYOLPの仕様に関しましてはjapan@mapbox.comにお問い合わせください。
 
 <!--
 
