@@ -57,8 +57,7 @@
 サポートチームとしては、このレポジトリーのissueや他のMapboxのレポジトリのissueなどに対して迅速に対応する考えを持っています。issueの量や体制により返事が遅れる場合がありまして、返答期間に対しましては保証がありませんのでご了承ください。又、有償のサポートをお求めの場合は[サポートプランをご覧になって下さい](https://www.mapbox.com/pricing/#support-pricing)。
 
 
-
-##The purpose of this repository
+**The purpose of this repository**
 
 **In this repository, we support the YOLP developers migrating to Mapbox.**
 
