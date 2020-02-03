@@ -1,6 +1,6 @@
 [<img width="400" alt="Mapbox" src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/logo.png">](https://www.mapbox.com/)
 
-![Alt Text](img/image_preview.gif)
+![Alt Text](img/readme_img.png)
 
 **Mapbox YOLP**では旧YOLPデベロッパーをMapboxへの移行をサポートしています。
 
