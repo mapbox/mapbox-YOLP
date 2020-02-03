@@ -13,7 +13,7 @@ assignees: tsuz
 
 ### What are you trying to do? / 何を達成したいか教えて下さい
 
-### What do you expect to happen? / 期待している事を教えて下さい
+### What is your expectation? / 期待している事を教えて下さい
 
 ### What do you observe? /　現状を教えて下さい
 
@@ -35,7 +35,7 @@ answer if applicable / 使っていれば教えて下さい
 -->
 
 
-### What are the reproduce steps? / 再現可能なステップを教えて下さい
+### What are the reproducing steps? / 再現可能なステップを教えて下さい
 
 1.
 2.
