@@ -1,6 +1,6 @@
 ---
-name: Bug report / バグの報告
-about: Report a bug / バグを報告する
+name: バグの報告
+about: バグを報告する
 title: 'Bug: {description}'
 labels: 'bug'
 assignees: tsuz
