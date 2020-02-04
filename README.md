@@ -22,7 +22,7 @@
 
 
 
-無料利用枠内であれば無償で使えます。[詳しくは](https://www.mapbox.com/pricing/)をご覧ください。
+無料利用枠内であれば無償で使えます。詳しくは[こちら](https://www.mapbox.com/pricing/)をご覧ください。
 
 
 
