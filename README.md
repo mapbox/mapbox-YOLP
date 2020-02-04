@@ -10,7 +10,7 @@
 
 このレポジトリでは日本語の技術的なサポートを提供しています。
 
-- 技術的な質問がある場合で日本語で希望の場合は[ここから](https://github.com/mapbox/mapbox-YOLP/issues)issueをあげて下さい。
+- 技術的な質問がある場合で日本語で希望の場合は[ここから](https://github.com/mapbox/mapbox-YOLP/issues/new/choose)issueをあげて下さい。
 - 個人情報を含む請求やのアカウントに関わる質問はjapan@mapbox.comにお問い合わせください。
 - 詳しい値段に関しても質問はjapan@mapbox.comにお問い合わせください。
 - エンタープライズ向けの資料請求に関しましては、japan@mapbox.comにお問い合わせください。
